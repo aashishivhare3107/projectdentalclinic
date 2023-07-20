@@ -11,9 +11,9 @@ const Hero = () => {
           Smile you still have teeth.
         </h1>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quibusdam
-          tenetur doloremque molestias repellat minus asperiores in aperiam
-          dolor, quaerat praesentium.
+        Dental clinic delivers quality dentistry with a personalized touch.
+        Each patient is treated with the utmost care, compassion, empathy
+        and state-of-the-art dentistry that promises nothing but the best.
         </p>
       </div>
       <div className="hero-img">

@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../images/aboutimg.jpg";
+import image from "../images/ashi.jpg";
 
 const AboutUs = () => {
   return (
@@ -15,13 +15,11 @@ const AboutUs = () => {
           </div>
           <div className="hero-content">
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit.
-              Quibusdam tenetur doloremque molestias repellat minus asperiores
-              in aperiam dolor, quaerat praesentium. Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Voluptatibus, repudiandae! Lorem
-              ipsum dolor sit amet consectetur adipisicing elit. Provident
-              quibusdam doloremque ex? Officia atque ab dolore? Tempore totam
-              non ea!
+            We provide oral care solutions for all dental problems, including Root
+            Canal Treatment, teeth whitening, teeth cleansing and polishing, 
+            complete or partial dentures, orthodontic treatment and more. With our
+            team of expert dentists, we take care of all your dental needs and ensure
+            complete sterilization in all our procedures.
             </p>
           </div>
         </div>
